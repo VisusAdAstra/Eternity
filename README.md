@@ -1,6 +1,6 @@
 # Eternity
 
-## Project for COMP 354
+## Project Electron Webapp
 
 This Project consists of making a calculator with the goal of solving transcendental functions without using existing math libraries.
 
